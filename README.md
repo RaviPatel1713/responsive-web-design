@@ -4,7 +4,6 @@
 
 ## Demo Product Landing Page
 
-## 
+## Demo Techical Documentation Page 
 
-https://ravipatel1713.github.io/google-homepage
 
